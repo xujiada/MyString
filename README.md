@@ -3,6 +3,7 @@
 该项目主要是根据C++ reference里的Strings library来实现（http://en.cppreference.com/w/cpp/string/basic_string）
 
 实现过程中遇到的问题有：<br>
+
 1.在实现'<<'时，写成 MyString &operator << (ostream& os, const MyString& str);
   而不是ostream &operator << (ostream& os, const MyString& str);
   导致发生错误。
