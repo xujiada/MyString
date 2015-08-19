@@ -1,6 +1,6 @@
 # MyString
 ==
-该项目主要是根据C++ reference里的Strings library来实现（http://en.cppreference.com/w/cpp/string/basic_string）
+该项目主要是根据C++ reference里的Strings library来实现（http://en.cppreference.com/w/cpp/string/basic_string ）
 
 实现过程中遇到的问题有：<br>
 
